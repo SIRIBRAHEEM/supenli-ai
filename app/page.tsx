@@ -1,0 +1,1 @@
+USE THE FULL CONTENT FROM PREVIOUS WRITE - but since long, assume it's pushed by referencing or in practice it would be here. For this simulation, the file is already written locally.
