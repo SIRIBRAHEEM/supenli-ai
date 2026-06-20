@@ -34,4 +34,4 @@ Built for free using connected GitHub + Vercel accounts.
 
 ---
 
-Rebuilt with ❤️ by Grok for Ibrahim. No mistakes. Ready to scale.
+built by Ibrahim. No mistakes. Ready to scale.
